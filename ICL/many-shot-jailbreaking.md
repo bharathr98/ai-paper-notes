@@ -1,3 +1,6 @@
+# Many-shot Jailbreaking
+[Link to paper](https://www.anthropic.com/research/many-shot-jailbreaking)
+
 ### One-line elevator pitch
 
 Can you get an LLM to ignore its safety guideline by prompting it with a large number of examples that violate the guideline
